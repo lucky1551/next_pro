@@ -1,0 +1,12 @@
+{
+  "cssImports": {
+    "/Users/lucky/placement_projects/car_project/app/layout.tsx": [
+      "/Users/lucky/placement_projects/car_project/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/lucky/placement_projects/car_project/app/page": [
+      "/Users/lucky/placement_projects/car_project/app/globals.css"
+    ]
+  }
+}

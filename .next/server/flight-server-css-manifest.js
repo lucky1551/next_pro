@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST="{\n  \"cssImports\": {\n    \"/Users/lucky/placement_projects/car_project/app/layout.tsx\": [\n      \"/Users/lucky/placement_projects/car_project/app/globals.css\"\n    ]\n  },\n  \"cssModules\": {\n    \"/Users/lucky/placement_projects/car_project/app/page\": [\n      \"/Users/lucky/placement_projects/car_project/app/globals.css\"\n    ]\n  }\n}"
